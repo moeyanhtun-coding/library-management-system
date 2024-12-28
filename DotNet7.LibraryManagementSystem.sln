@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet7.LibraryManagementSy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet7.LibraryManagementSystem.Database", "DotNet7.LibraryManagementSystem.Database\DotNet7.LibraryManagementSystem.Database.csproj", "{EAE635A0-FC8F-4DEF-9AC3-ADE7457A9796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet7.LibraryManagementSystem.BusinessLogic", "DotNet7.LibraryManagementSystem.BusinessLogic\DotNet7.LibraryManagementSystem.BusinessLogic.csproj", "{26810605-6593-4723-8723-76761F744C85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EAE635A0-FC8F-4DEF-9AC3-ADE7457A9796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE635A0-FC8F-4DEF-9AC3-ADE7457A9796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE635A0-FC8F-4DEF-9AC3-ADE7457A9796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26810605-6593-4723-8723-76761F744C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26810605-6593-4723-8723-76761F744C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26810605-6593-4723-8723-76761F744C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26810605-6593-4723-8723-76761F744C85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
